@@ -14,12 +14,12 @@ status: open
 initiatives:
 - GSoC 2024
 issues:
-- [#942](https://github.com/libremesh/lime-packages/issues/942) 
-- [#936](https://github.com/libremesh/lime-packages/issues/936)
-- [#886](https://github.com/libremesh/lime-packages/issues/)
-- [#327](https://github.com/libremesh/lime-packages/issues/327)
-- [#261](https://github.com/libremesh/lime-packages/issues/261)
-- [#76](https://github.com/libremesh/lime-packages/issues/76)
+- https://github.com/libremesh/lime-packages/issues/942 
+- https://github.com/libremesh/lime-packages/issues/936
+- https://github.com/libremesh/lime-packages/issues/886
+- https://github.com/libremesh/lime-packages/issues/327
+- https://github.com/libremesh/lime-packages/issues/261
+- https://github.com/libremesh/lime-packages/issues/76
 
 size: 175 hours # choose between 90 hours, 175 hours and 350 hours
 markdown: libremeshpiranianewrelease
