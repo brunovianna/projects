@@ -1,6 +1,6 @@
 ---
-name: Project Librimesh Piranha, new release.
-desc: This project, the description of this project, will be the development of a new release from Piranha sfor the new version of Librimesh based on OpenWRT 22.
+name: "Project Librimesh Piranha, new release."
+desc: "This project, the description of this project, will be the development of a new release from Piranha sfor the new version of Librimesh based on OpenWRT 22."
 collaborating_projects:
 - Coolab
 - LibreMesh
